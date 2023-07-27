@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:toktik/presentation/widgets/shared/video/video_background.dart';
 import 'package:video_player/video_player.dart';
 
 class FullScreenPlayer extends StatefulWidget {
@@ -50,7 +51,7 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
               return;
             }
             controller.play();
-            
+
           },
           child: AspectRatio(
             aspectRatio: controller.value.aspectRatio,
@@ -59,7 +60,9 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
                 VideoPlayer(controller),
 
                 //Gradiente
-
+                VideoBackground(
+                  stops: [0.8,1.0],
+                ),
                 //Texto
                 Positioned(
                     bottom: 50,
