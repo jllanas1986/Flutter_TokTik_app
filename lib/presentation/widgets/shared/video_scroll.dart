@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toktik/domain/entities/video_post.dart';
+import 'package:toktik/presentation/widgets/shared/video/fullscreen_player.dart';
 import 'package:toktik/presentation/widgets/shared/video_buttons.dart';
 
 class VideoScrollableView extends StatelessWidget {
@@ -18,12 +19,23 @@ class VideoScrollableView extends StatelessWidget {
           return Stack(
             children: [
               ///videoplayer + gradiente
+              SizedBox.expand(
+                child: FullScreenPlayer(
+                  caption: videoPost.caption,
+                  videoUrl: videoPost.videoUrl,
+                ),
+              ),
+              
+
 
               ///   botones
               Positioned(
-                  bottom: 40, right: 20, child: VideoButtons(video: videoPost)),
-            ],
-          );
-        });
-  }
+                  bottom: 40,
+                  right: 20,
+                  child: VideoButtons(video: videoPost)
+                ),
+              ],
+            );
+          });
+    }
 }
