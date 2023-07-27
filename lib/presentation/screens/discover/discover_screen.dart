@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:toktik/presentation/screens/discover/provider/discover_provider.dart';
-import 'package:toktik/shared/video_scroll.dart';
+import 'package:toktik/presentation/widgets/shared/video_scroll.dart';
 
 class DiscoverScreen extends StatelessWidget {
   const DiscoverScreen({super.key});
