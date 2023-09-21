@@ -50,6 +50,11 @@ Una aplicación de ejemplo de Flutter inspirada en TikTok para compartir y ver v
 
 ## Funcionalidad 🖥️
 
+[videos](https://github.com/jllanas1986/Flutter_TokTik_app/assets/122029674/b2a76608-2be8-4bf5-b8ff-34260cedea3c)
+
+[pausa](https://github.com/jllanas1986/Flutter_TokTik_app/assets/122029674/ddd0defb-d189-4184-9d3a-b633ecc0fe56)
+
+
 ## Dependencias 📜
 
 ![logo](./images/dependencias.png)
