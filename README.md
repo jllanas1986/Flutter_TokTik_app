@@ -12,7 +12,7 @@ Una aplicación de ejemplo de Flutter inspirada en TikTok para compartir y ver v
 
 - **Reproducción de Videos:** Permite a los usuarios ver videos cortos.
 
-- **Pausar Videos:** Los usuarios pueden pausar los videos en cualquier momento.
+- **Pausar Videos:** Los usuarios pueden pausar los videos en cualquier momento al tocar la pantalla.
 
 - **Interacción Social:** Los usuarios disponen de botones de "Me gusta" y contador de visualizaciones.
 
