@@ -1,16 +1,62 @@
-# toktik
+![logo](./assets/images/logo.jpeg)
+# Flutter TokTik App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter--b)
+![Dart](https://img.shields.io/badge/Dart--d)
 
-## Getting Started
+Una aplicación de ejemplo de Flutter inspirada en TikTok para compartir y ver videos cortos.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Reproducción de Videos:** Permite a los usuarios ver videos cortos.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Pausar Videos:** Los usuarios pueden pausar los videos en cualquier momento.
+
+- **Interacción Social:** Los usuarios disponen de botones de "Me gusta" y contador de visualizaciones.
+
+
+## Diseño 📱
+
+![image1](./assets/images/image1.png)
+![image2](./assets/images/image2.png)
+
+## Implementaciones 🛠️
+
+* Manejo de assets
+
+* Paquetes
+
+* Gesture Detector
+
+* Posicionamiento de Widgets
+
+* Mappers
+
+* Gradientes
+
+* Loops
+
+* Aserciones
+
+* Stacks
+
+* Controladores de video
+
+* Datasources
+
+* Repositories
+
+## Funcionalidad 🖥️
+
+## Dependencias 📜
+
+![logo](./assets/images/dependencias.png)
+## Recursos 📚
+
+[Udemy](https://www.udemy.com/)
+
+## Autor ✒️
+
+- **Jose Llanas** - [jllanas1986](https://github.com/jllanas1986)
+
