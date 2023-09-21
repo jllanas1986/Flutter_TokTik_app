@@ -1,4 +1,4 @@
-![logo](./assets/images/logo.jpeg)
+![logo](./images/logo.jpeg)
 
 # Flutter TokTik App
 
@@ -19,8 +19,8 @@ Una aplicación de ejemplo de Flutter inspirada en TikTok para compartir y ver v
 
 ## Diseño 📱
 
-![image1](./assets/images/image1.png)
-![image2](./assets/images/image2.png)
+![image1](./images/image1.png)
+![image2](./images/image2.png)
 
 ## Implementaciones 🛠️
 
@@ -52,7 +52,7 @@ Una aplicación de ejemplo de Flutter inspirada en TikTok para compartir y ver v
 
 ## Dependencias 📜
 
-![logo](./assets/images/dependencias.png)
+![logo](./images/dependencias.png)
 ## Recursos 📚
 
 [Udemy](https://www.udemy.com/)
